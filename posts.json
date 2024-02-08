@@ -1,0 +1,20 @@
+[
+    {
+        "posterProfilePic": "/assets/u1.jpg",
+        "posterName": "abcdefgh",
+        "postLikes": 230,
+        "postImage": "/assets/long-road.jpg"
+    },
+    {
+        "posterProfilePic": "/assets/u1.jpg",
+        "posterName": "abcdefgh",
+        "postLikes": 230,
+        "postImage": "/assets/sunflower.jpg"
+    },
+    {
+        "posterProfilePic": "/assets/u1.jpg",
+        "posterName": "abcdefgh",
+        "postLikes": 555,
+        "postImage": "/assets/sunshine.jpg"
+    }
+]
